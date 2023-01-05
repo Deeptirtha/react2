@@ -1,0 +1,16 @@
+.blck{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    background-color: black;
+    color: beige;
+    margin-left:16cm;
+    margin-top:2cm ;
+    margin-bottom: 2cm;
+    height: 5cm;
+    width: 10cm;
+}
+.a{
+    margin: 20px;
+}

@@ -1,0 +1,19 @@
+.form{
+    height: 10cm;
+    width: 20cm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2cm;
+    margin-left: 11cm;
+    background-color: rgb(190, 202, 202);
+
+}
+.item{
+    margin: 20px;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+}
+.sub{
+    margin-left: 130px;
+  }
