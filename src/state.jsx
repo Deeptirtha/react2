@@ -14,11 +14,11 @@ function Form() {
         }}
       >
         <div className='item'>
-          <label>Name</label>
+          <label>Name:</label>
           <input value={name} onChange={(e) => setName(e.target.value)} />
         </div>
         <div className='item'>
-          <label>Email</label>
+          <label>Email:</label>
           <input
             type="email"
             value={email}
@@ -26,7 +26,7 @@ function Form() {
           />
         </div>
         <div className='item'>
-          <label>Mobile</label>
+          <label>Mobile:</label>
           <input
             type="tel"
             value={mobile}
